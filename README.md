@@ -19,8 +19,9 @@ pip install -r requirements.txt
 
 To run the script:
 ```bash
-SENDGRID_API_KEY=<your-sendgrid-api-key>\ PATH_TO_CHROMEDRIVER=<your-path-to-chromedriver>\
-EMAIL_ADDRESS=<your-email-address>\
+SENDGRID_API_KEY=<your-sendgrid-api-key> \
+PATH_TO_CHROMEDRIVER=<your-path-to-chromedriver> \
+EMAIL_ADDRESS=<your-email-address> \
 python3 <your> <product> <list>
 ```
 
